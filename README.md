@@ -32,19 +32,3 @@ curl http://localhost:8081/employee/names
 curl http://localhost:8081/employee/totalsalary
 ```
 
-## GitHub
-I cannot push to your GitHub account. To create a GitHub link for submission, run:
-
-```bash
-git init
-git add .
-git commit -m "COMP3123 lab 03 completed"
-# create a repo on GitHub, then:
-git remote add origin https://github.com/<your-username>/COMP3123-exec03.git
-git push -u origin main
-```
-
-Once pushed, your GitHub project link will look like:
-`https://github.com/<your-username>/COMP3123-exec03`
-
-Replace `<your-username>` with your GitHub username.
